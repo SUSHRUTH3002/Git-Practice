@@ -1,3 +1,1 @@
-print("hello world")
-
-print("hello")
+print("my wish my rules")
